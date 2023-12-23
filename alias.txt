@@ -1,0 +1,4 @@
+st for status
+cm for commit
+last for 'log -p -1'
+unstage for "restore --staged --"
